@@ -1,1 +1,5 @@
 CSC332 Lexicon Assignment
+
+KNOWN ISSUE
+===========
+source file to analyze must be in same folder as the binary file (main)
